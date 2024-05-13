@@ -1,6 +1,6 @@
 img{
   display: block;
-  align: center
+  align: center;
   width:600px;
   height:400px;
 }
@@ -18,7 +18,7 @@ p{
 }
 table{
   width:50%;
-  border-collapse:collapse
+  border-collapse:collapse;
   margin:20px,auto;
 }
 th, td{
