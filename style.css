@@ -1,0 +1,31 @@
+img{
+  display: block;
+  align: center
+  width:600px;
+  height:400px;
+}
+h1{
+  color:blue;
+}
+.head2{
+  color:green;
+}
+#head2{
+  color:red;
+}
+p{
+  color:green;
+}
+table{
+  width:50%;
+  border-collapse:collapse
+  margin:20px,auto;
+}
+th, td{
+  border:2px solid black;
+  padding: 12px;
+  text-align: center;
+}
+th{
+  background-color:green;
+}
